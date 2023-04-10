@@ -70,6 +70,9 @@ In the future I will not be timid about my ignorance regarding the subject and a
 
 # Final Outcome
 ## MOCKUPS:
+![screencapture-localhost-3000-2023-04-10-13_17_20](https://user-images.githubusercontent.com/113917323/230891960-5dfb1426-2371-4bc1-a464-12b35a116df9.png)
+![screencapture-localhost-3000-compare-2023-04-10-13_18_26](https://user-images.githubusercontent.com/113917323/230891971-54c1763b-ba07-46b3-82f1-861e88592124.png)
+![screencapture-localhost-3000-time-2023-04-10-13_23_23](https://user-images.githubusercontent.com/113917323/230892592-db2bc419-6704-4870-8e50-c9e54d7fa023.png)
 
 ## Video Demonstartion:
 
